@@ -2,7 +2,9 @@
 
 ## This setup allows us to create a Infection geometry on the object level (/obj). Inside the geometry you will see some nodes automaticly created by python code. You can replace your geometry with the Grid which name is "Replace_Your_Geo_Here" so just bring your geo there connect the node after Grid node
 
-## There is a Group node which you can set your start point or points from there.
+There is a Group node which you can set your start point or points from there.
+
+Inside the Solver node you will see another attribwrangle node which you will have the VEX code below and you can play with those three parameters to find the infection style you like
 
 
 
