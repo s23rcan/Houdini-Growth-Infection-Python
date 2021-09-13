@@ -10,6 +10,12 @@ Inside the Solver node you will see another attribwrangle node which you will ha
 
 ![](https://github.com/s23rcan/Houdini-Growth-Infection-Python/blob/main/Files/vex_infection_data.PNG)
 
+With this VEX code, we will have 3 parameters to control our infection style
+
+Max Distance, Max Poinrs and Infection Speed. 
+
+Max Distance is for how many points we want to jump each frame, for default view try it 3, Max Points is for how many points we want to select around every jumped point and for defauly try it 15. And Infection Speed allows us how fast we want to see infection spreading. Default speed is 1 but to make it slower youo can give 0.1 or 0.01 or less.
+
 # Here is the Python script
 ## You should create a python script from the shell and copy/paste the python code to your houdini python script
 ![](https://github.com/s23rcan/Houdini-Growth-Infection-Python/blob/main/Files/houdini_script.PNG)
