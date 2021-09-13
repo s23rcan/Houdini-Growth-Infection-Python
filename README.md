@@ -4,7 +4,7 @@
 
 
 
-obj = hou.node("/obj")
+obj = hou.node("/obj")\n
 geoNode = obj.createNode("geo", "Growth_Tool")
 geoNode.setColor(hou.Color(0.25 , 0.25 ,0.5))
 
