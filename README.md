@@ -19,4 +19,7 @@ Max Distance is for how many points we want to jump each frame, for default view
 # Here is the Python script
 You should create a python script from the shell and copy/paste the python code to your houdini python script
 and here is code as a link https://github.com/s23rcan/Houdini-Growth-Infection-Python/blob/main/houdini_infection_code.py
+
+
+
 ![](https://github.com/s23rcan/Houdini-Growth-Infection-Python/blob/main/Files/houdini_script.PNG)
