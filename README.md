@@ -6,7 +6,7 @@ There is a Group node which you can set your start point or points from there.
 
 Inside the Solver node you will see another attribwrangle node which you will have the VEX code below and you can play with those three parameters to find the infection style you like
 
-Also you can watch the video from the link below
+Also you can watch the video from the link below to understand how to use python in Houdini
 
 Houdini Python 102 - Creating a Golden Ratio (Turkce) https://www.youtube.com/watch?v=3aWea2j8YZQ
 
